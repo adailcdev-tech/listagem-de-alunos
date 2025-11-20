@@ -2,7 +2,7 @@
 
 Este projeto é um estudo de caso prático que envolve o desenvolvimento de duas aplicações, Web e Mobile, para listar e detalhar informações de alunos consumindo uma API REST.
 
-**[➡️ Acesse a aplicação web aqui][(https://listagem-de-alunos-n78f.vercel.app/])**
+**[➡️ Acesse a aplicação web aqui][(https://listagem-de-alunos-uxjr.vercel.app/)**
 
 ## 🎯 Objetivo
 
