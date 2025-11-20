@@ -1,0 +1,14 @@
+{
+  "name": "meu-estudo-caso",
+  "version": "1.0.0",
+  "description": "Projeto de estudo com partes Web (React + Vite) e Mobile (React Native + Expo).",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test --workspace=web",
+    "test:watch": "cd web && npm run test -- --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
